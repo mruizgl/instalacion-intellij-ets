@@ -1,1 +1,0 @@
-# instalacion-intellij-ets
